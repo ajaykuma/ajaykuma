@@ -87,8 +87,8 @@
 - Gen AI with OpenAI, HuggingFace, Gemini LLMs.
 
 #### 🛠️ Tools, Languages & Frameworks
-- Python, Shell, SQL  
-- Git, Docker, Terraform, Airflow, Kubernetes
+- Python, Shell, SQL , Java, Scala
+- Git, Docker, Terraform, Airflow, Kubernetes, OpenShift
 ---
 
 
