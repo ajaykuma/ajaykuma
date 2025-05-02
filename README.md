@@ -90,9 +90,13 @@
 - Python, Shell, SQL , Java, Scala
 - Git, Docker, Terraform, Airflow, Kubernetes, OpenShift
 ---
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
+
+### 💳 Support via PayPal
+
+If you'd like to support my work directly via PayPal:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/ajays1711?country.x=IN&locale.x=en_GB)
