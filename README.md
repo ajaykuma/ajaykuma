@@ -7,7 +7,7 @@
 
 ---
 <p align="left">
-  <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized.gif" alt="Work in Progress" width="90"/>
+  <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/>
 </p>
 
 > 🚧 Repositories are constantly under refinement. Stay tuned for updates!
