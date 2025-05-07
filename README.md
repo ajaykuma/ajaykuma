@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ajaykuma&color=fb4362)
-<h2 align="left">👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h2>
+<h3 align="left">👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h3>
 
 ---
 
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-### 🧰 Tech Toolbox
+## 🧰 Tech Toolbox
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
