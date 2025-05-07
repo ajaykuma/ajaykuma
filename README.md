@@ -17,7 +17,7 @@
 ### 🧰 Tech Toolbox
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
@@ -102,8 +102,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons
 
 ### 💳 Support via PayPal
 
