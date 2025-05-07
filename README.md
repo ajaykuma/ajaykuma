@@ -97,15 +97,11 @@
 - Python, Shell, SQL , Java, Scala
 - Git, Docker, Terraform, Airflow, Kubernetes, OpenShift
 ---
-<h3>My GitHub contributions summary</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ajaykuma)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
-
-
 
 ### 💳 Support via PayPal
 
