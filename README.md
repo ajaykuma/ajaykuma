@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## 🧰 Tech Toolbox
+#### 🧰 Tech Toolbox
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="25"/>
 </div>
 
-### 📈 Monitoring & Visualization
+#### 📈 Monitoring & Visualization
 
 <div align="left">
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height="25"/>
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Ganglia-1B75BC?style=for-the-badge&logo=data&logoColor=white" height="25"/>
 </div>
 
-### 📫 Let's Connect
+#### 📫 Let's Connect
 
 <div align="left">
   <a href="mailto:ajaykuma24@gmail.com" target="_blank">
@@ -69,14 +69,14 @@
 </div>
 
 ---
-### 🚀 Technical Expertise
+#### 🚀 Technical Expertise
 
-#### 💾 Databases & Data Warehousing
+##### 💾 Databases & Data Warehousing
 - **Structured**: DB2, MySQL, MSSQL
 - **NoSQL**: MongoDB, Cassandra, Redis, Neo4j, Aerospike, DynamoDB
 - **Warehousing**: Redshift, Druid, Traditional DWHs
 
-#### 📊 Big Data Analytics & Integration
+##### 📊 Big Data Analytics & Integration
 - Apache Hadoop · Spark · Hive · Tez
 - Apache Kafka · Flink
 - Elasticsearch & its stack · Opensearch · Solr · Splunk
@@ -84,16 +84,16 @@
 - IBM MQ · Cognos · Websphere Application Server
 - Apache Nifi · Talend
 
-#### ☁️ Cloud Platforms & Services
+##### ☁️ Cloud Platforms & Services
 - **AWS**: S3, EMR, Lambda, Redshift, DynamoDB, EC2, Kinesis, SNS, SQS, QuickSight, Athena etc.
 - **GCP**: BigQuery, Dataproc, Pub/Sub, Vertex AI, Storage etc.
 - **Azure**: Synapse, Data Lake, Azure Functions etc.
 
-#### 🧠 AI / ML / GenAI
+##### 🧠 AI / ML / GenAI
 - ML Pipelines with Python & Cloud ML/API services  
 - Gen AI with OpenAI, HuggingFace, Gemini LLMs.
 
-#### 🛠️ Tools, Languages & Frameworks
+##### 🛠️ Tools, Languages & Frameworks
 - Python, Shell, SQL , Java, Scala
 - Git, Docker, Terraform, Airflow, Kubernetes, OpenShift
 ---
@@ -103,7 +103,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
-### 💳 Support via PayPal
+#### 💳 Support via PayPal
 
 If you'd like to support my work directly via PayPal:
 
