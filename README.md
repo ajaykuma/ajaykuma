@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h2>
+<h2 align="left">👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h2>
 
 ---
 
