@@ -8,10 +8,10 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_slow_lightblue.gif" alt="Work in Progress" width="80"/>
+  <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized.gif" alt="Work in Progress" width="90"/>
 </p>
 
-> 🚧 This repository is currently under refinement. Stay tuned for updates!
+> 🚧 Repositories are constantly under refinement. Stay tuned for updates!
 
 ### 🧰 Tech Toolbox
 
