@@ -7,7 +7,11 @@
 🔍 Focus areas: Data Engineering · Big Data · Cloud Systems & Services · Batch & Real-time Systems · Structured & NoSQL stores · ML & Analytics  · Generative AI 
 
 ---
-> 🚧 The repositories are constantly being refined and improved. Stay tuned!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/running_businessman_slow_lightblue.gif" alt="Work in Progress" width="200"/>
+</p>
+
+> 🚧 This repository is currently under refinement. Stay tuned for updates!
 
 ### 🧰 Tech Toolbox
 
