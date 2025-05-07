@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_slow_lightblue.gif" alt="Work in Progress" width="50"/>
+  <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_slow_lightblue.gif" alt="Work in Progress" width="80"/>
 </p>
 
 > 🚧 This repository is currently under refinement. Stay tuned for updates!
