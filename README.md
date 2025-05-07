@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h2>
----
-
 💼 **20+ years of experience** in designing, developing, building, managing and scaling data platforms, solutions & services.
 🔍 Focus areas: Data Engineering · Big Data · Cloud Systems & Services · Batch & Real-time Systems · Structured & NoSQL stores · ML & Analytics  · Generative AI 
 
