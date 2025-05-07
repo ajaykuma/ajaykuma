@@ -7,7 +7,7 @@
 🔍 Focus areas: Data Engineering · Big Data · Cloud Systems & Services · Batch & Real-time Systems · Structured & NoSQL stores · ML & Analytics  · Generative AI 
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized.gif" alt="Work in Progress" width="90"/>
 </p>
 
