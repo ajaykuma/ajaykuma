@@ -98,7 +98,7 @@
 - Git, Docker, Terraform, Airflow, Kubernetes, OpenShift
 ---
 <h3>My GitHub contributions summary</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaykuma&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ajaykuma)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
