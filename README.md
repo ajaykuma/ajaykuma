@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ajaykuma&color=fb4362)
 <h2 align="left">👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h2>
 
 ---
