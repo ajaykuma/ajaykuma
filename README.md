@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/></td>
-    <td><strong>🚧 Repositories here are constantly reviewed & improved. Stay tuned for updates!</strong></td>
+    <td><strong>🚧 Repositories are constantly being reviewed & improved. Stay tuned for updates!</strong></td>
   </tr>
 </table>
 
