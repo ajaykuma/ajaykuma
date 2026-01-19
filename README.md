@@ -3,7 +3,7 @@
 
 ---
 
--  💼 **20+ years of experience** in designing, developing, building, managing and scaling data platforms, solutions & services.
+-  💼 **22+ years of experience** in designing, developing, building, managing and scaling data platforms, solutions & services.
 -  🔍 Focus areas: Data Engineering · Big Data · Cloud Systems & Services · Batch & Real-time Systems · Structured & NoSQL stores · ML & Analytics  · Generative AI 
 
 ---
