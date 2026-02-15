@@ -29,7 +29,7 @@ Available formats:
 - Advisory or implementation retainers 
 
 ### <h3> 📩 Contact: ajaykuma24@gmail.com </h3>
-    <h4> <🔗 Booking link coming soon </h4>
+## <h4> <🔗 Booking link coming soon </h4>
 ---
 
 <table>
