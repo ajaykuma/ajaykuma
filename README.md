@@ -29,9 +29,8 @@ Available formats:
 - Advisory or implementation retainers 
 
 <h3> 📩 Contact: ajaykuma24@gmail.com  </h3>
-<h3> 🔗 Booking link coming soon </h3>h3>
+<h3> 🔗 Booking link coming soon </h3>
 ---
-
 <table>
   <tr>
     <td><img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/></td>
@@ -39,7 +38,6 @@ Available formats:
   </tr>
 </table>
 ---
-
 ## 🧰 Tech Toolbox
 
 <div align="left">
