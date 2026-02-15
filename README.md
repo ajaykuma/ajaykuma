@@ -28,14 +28,14 @@ Available formats:
 - Hands-on deep dives & multi-week enablement programs  
 - Advisory or implementation retainers 
 
-### <h3> 📩 Contact: ajaykuma24@gmail.com </h3>
-## <h4> 🔗 Booking link coming soon </h4>
+### <h3> 📩 Contact: ajaykuma24@gmail.com | 🔗 Booking link coming soon </h3>
 <table>
   <tr>
     <td><img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/></td>
     <td><strong>🚧 Repositories are continuously evolving with architecture patterns, reference implementations & enterprise-ready solutions.</strong></td>
   </tr>
 </table>
+
 ## <h3> 🧰 Tech Toolbox </h3>
 
 <div align="left">
