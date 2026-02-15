@@ -11,6 +11,7 @@ My expertise spans **Big Data, NoSQL & structured databases, cloud-native platfo
 I help organizations move from **concept → architecture → production → scale**, ensuring secure, reliable, and cost-effective platforms.
 </h4>
 ---
+
 ## 💼 Consulting, Architecture & Technical Enablement
 
 I provide **independent consulting and hands-on technical leadership**, supporting enterprises, startups, and engineering teams in:
