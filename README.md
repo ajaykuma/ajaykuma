@@ -3,8 +3,7 @@
 <h3 align="left">Architect | Engineer | Consultant — Data, Cloud & AI / Generative AI Platforms</h3>
 
 ---
-Senior technologist with **22+ years in enterprise technology**,  
-**10+ years in AI/ML**, and **4+ years in Generative AI**.
+Senior technologist with **22+ years in enterprise technology**, **10+ years in AI/ML**, and **4+ years in Generative AI**.
 
 I design, build, and deliver **scalable, production-grade Data & AI platforms** across cloud and hybrid environments.  
 My expertise spans **Big Data, NoSQL & structured databases, cloud-native platforms, AI/ML pipelines, and LLM-powered systems**.
