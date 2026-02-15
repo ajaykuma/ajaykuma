@@ -17,7 +17,7 @@ I provide **independent consulting and hands-on technical leadership**, supporti
 - Optimize distributed data & streaming platforms for performance, resilience, and cost efficiency  
 - Provide architecture guidance, code reviews, and technical enablement for engineering teams 
 
-### 📌 Enterprise Engagement Highlights
+### <h3> 📌 Enterprise Engagement Highlights</h3>
 - Enabled 250+ enterprise teams to adopt modern Data, Cloud, and AI/ML platforms through hands-on workshops  
 - Guided engineers in solving real-world problems and implementing production-ready solutions  
 - Maintained **95–100% satisfaction**, demonstrating consistent impact 
@@ -28,8 +28,8 @@ Available formats:
 - Hands-on deep dives & multi-week enablement programs  
 - Advisory or implementation retainers 
 
-📩 Contact: ajaykuma24@gmail.com  
-🔗 Booking link coming soon
+<h3> 📩 Contact: ajaykuma24@gmail.com  </h3>
+<h3> 🔗 Booking link coming soon </h3>h3>
 ---
 
 <table>
@@ -66,13 +66,11 @@ Available formats:
 <img src="https://img.shields.io/badge/Databricks-E42C64?style=for-the-badge&logo=databricks&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="25"/>
 <br><br>
-
 <!-- Cloud -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="25"/>
 <br><br>
-
 <!-- Containers & Infra -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
