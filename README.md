@@ -39,14 +39,12 @@ Available formats:
 ## <h3> 🧰 Tech Toolbox </h3>
 <div align="left">
 <!-- AI / LLM Ecosystem -->
-<strong>AI / LLM Ecosystem</strong><br>
 <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/AutoGen-8A2BE2?style=for-the-badge" height="25"/>
-<br><br>
 <!-- Big Data & Streaming -->
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/>
