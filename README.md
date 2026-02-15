@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ajaykuma&color=fb4362)
 
 <div style="line-height: 1.2; margin: 0; padding: 0;">
-  Architect | Engineer | Consultant — Data, Cloud & AI / Generative AI Platforms<br>
+  <h3>Architect | Engineer | Consultant — Data, Cloud & AI / Generative AI Platforms<br></h3>h3>
   Senior technologist with 22+ years in enterprise technology, 10+ years in AI/ML, and 4+ years in Generative AI.<br>
   I design, build, and deliver scalable, production-grade Data & AI platforms across cloud and hybrid environments.<br>
   My expertise spans Big Data, NoSQL & structured databases, cloud-native platforms, AI/ML pipelines, and LLM-powered systems.<br>
