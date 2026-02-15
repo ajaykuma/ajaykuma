@@ -79,7 +79,6 @@ Available formats:
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="25"/>
 </div>
----
 
 ## <h3> 🚀 Technical Expertise </h3>
 ### 💾 Databases & Data Platforms
