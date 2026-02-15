@@ -97,12 +97,11 @@ Available formats:
 - Containers, Kubernetes, serverless & hybrid infrastructure
 
 ### <h3> 🧠 AI / ML / Generative AI </h3>
-- LLM-based enterprise applications and RAG pipelines using multiple providers and frameworks, including **OpenAI GPT, Google Gemini, Hugging Face, LangChain, LangGraph, AutoGen, CrewAI**  
-- Deployment and orchestration on cloud platforms such as **Google Cloud (Vertex AI), Azure OpenAI, and AWS**  
-- Vector stores for semantic and multimodal search: **FAISS, Chroma, Elasticsearch / OpenSearch**  
+- LLM-based enterprise applications and RAG pipelines using multiple providers and frameworks, including OpenAI GPT, Google Gemini, Hugging Face, LangChain, LangGraph, AutoGen, CrewAI
+- Deployment and orchestration on cloud platforms such as Google Cloud (Vertex AI), Azure OpenAI, and AWS
+- Vector stores for semantic and multimodal search: FAISS, Chroma, Elasticsearch / OpenSearch
 - Evaluation frameworks, benchmarking, and guardrails for production-ready systems  
 - Agentic systems and workflow automation for real-world business solutions
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
