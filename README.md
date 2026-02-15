@@ -32,7 +32,7 @@ Available formats:
 <table>
   <tr>
     <td><img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/></td>
-    <td><strong>🚧 Repositories are continuously evolving with architecture patterns, reference implementations & enterprise-ready solutions.</strong></td>
+    <td><strong>🚧 Repositories are continuously evolving with reference implementations & exploratory work.</strong></td>
   </tr>
 </table>
 
