@@ -28,17 +28,19 @@ Available formats:
 - Hands-on deep dives & multi-week enablement programs  
 - Advisory or implementation retainers 
 
-<h3> 📩 Contact: ajaykuma24@gmail.com  </h3>
-<h3> 🔗 Booking link coming soon </h3>
+<h3> 📩 Contact: ajaykuma24@gmail.com
+<🔗 Booking link coming soon </h3>
 ---
+
 <table>
   <tr>
     <td><img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/></td>
     <td><strong>🚧 Repositories are continuously evolving with architecture patterns, reference implementations & enterprise-ready solutions.</strong></td>
   </tr>
 </table>
+
 ---
-## 🧰 Tech Toolbox
+## <h3> 🧰 Tech Toolbox </h3>
 
 <div align="left">
 <!-- Core Languages -->
@@ -83,23 +85,23 @@ Available formats:
 </div>
 ---
 
-## 🚀 Technical Expertise
+## <h3> 🚀 Technical Expertise </h3>
 ### 💾 Databases & Data Platforms
 - Structured & NoSQL systems across enterprise & distributed environments  
 - Lakehouse & streaming architectures for high-volume, low-latency processing  
 - Data quality, lineage & governance frameworks
 
-### 📊 Big Data, Streaming & Integration
+### <h3> 📊 Big Data, Streaming & Integration </h3>
 - Spark · Hadoop · Kafka · Flink  
 - Elasticsearch / OpenSearch ecosystems  
 - Hybrid batch & real-time architectures  
 - Event-driven integration patterns
 
-### ☁️ Cloud & Platform Engineering
+### <h3> ☁️ Cloud & Platform Engineering </h3>
 - Multi-region cloud-native architectures & APIs (AWS · GCP · Azure)  
 - Containers, Kubernetes, serverless & hybrid infrastructure
 
-### 🧠 AI / ML / Generative AI
+### <h3> 🧠 AI / ML / Generative AI </h3>
 - LLM-based enterprise applications and RAG pipelines using multiple providers and frameworks, including **OpenAI GPT, Google Gemini, Hugging Face, LangChain, LangGraph, AutoGen, CrewAI**  
 - Deployment and orchestration on cloud platforms such as **Google Cloud (Vertex AI), Azure OpenAI, and AWS**  
 - Vector stores for semantic and multimodal search: **FAISS, Chroma, Elasticsearch / OpenSearch**  
@@ -112,7 +114,7 @@ Available formats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
-#### 💳 Support via PayPal
+#### <h3> 💳 Support via PayPal </h3>
 
 If you'd like to support my work directly via PayPal:
 
