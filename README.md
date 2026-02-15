@@ -8,7 +8,7 @@
   I help organizations move from concept → architecture → production → scale, ensuring secure, reliable, and cost-effective platforms.
 </div>
 
-## 💼 <h3>Consulting, Architecture & Technical Enablement</h3>
+## <h3> 💼 Consulting, Architecture & Technical Enablement</h3>
 
 I provide **independent consulting and hands-on technical leadership**, supporting enterprises, startups, and engineering teams in:
 - Design and deliver enterprise-grade Data & AI platforms, addressing real-world business challenges  
