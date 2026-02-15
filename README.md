@@ -1,107 +1,144 @@
 ![](https://komarev.com/ghpvc/?username=ajaykuma&color=fb4362)
-<h3 align="left">👋 I'm Ajay(AJ) — Data Engineering, Cloud, and AI Specialist</h3>
+
+<h3 align="left">Architect | Engineer | Consultant — Data, Cloud & AI / Generative AI Platforms</h3>
 
 ---
 
--  💼 **22+ years of experience** in designing, developing, building, managing and scaling data platforms, solutions & services.
--  🔍 Focus areas: Data Engineering · Big Data · Cloud Systems & Services · Batch & Real-time Systems · Structured & NoSQL stores · ML & Analytics  · Generative AI 
+Senior technologist with **22+ years in enterprise technology**,  
+**10+ years in AI/ML**, and **4+ years in Generative AI**.
+
+I design, build, and deliver **scalable, production-grade Data & AI platforms** across cloud and hybrid environments.  
+My expertise spans **Big Data, NoSQL & structured databases, cloud-native platforms, AI/ML pipelines, and LLM-powered systems**.
+
+I help organizations move from **concept → architecture → production → scale**, ensuring secure, reliable, and cost-effective platforms.
 
 ---
+
+## 💼 Consulting, Architecture & Technical Enablement
+
+I provide **independent consulting and hands-on technical leadership**, supporting enterprises, startups, and engineering teams in:
+
+- Design and deliver enterprise-grade Data & AI platforms, addressing real-world business challenges  
+- Modernize legacy systems and scale cloud-native, hybrid, or multi-region architectures  
+- Implement LLM / RAG pipelines and generative AI solutions for production environments  
+- Optimize distributed data & streaming platforms for performance, resilience, and cost efficiency  
+- Provide architecture guidance, code reviews, and technical enablement for engineering teams 
+
+### 📌 Enterprise Engagement Highlights
+- Enabled 250+ enterprise teams to adopt modern Data, Cloud, and AI/ML platforms through hands-on workshops  
+- Guided engineers in solving real-world problems and implementing production-ready solutions  
+- Maintained **95–100% satisfaction**, demonstrating consistent impact 
+
+Available formats:
+- Quick discovery / scoping calls  
+- Executive sessions with leadership  
+- Hands-on deep dives & multi-week enablement programs  
+- Advisory or implementation retainers 
+
+📩 Contact: ajaykuma24@gmail.com  
+🔗 Booking link coming soon
+
+---
+
 <table>
   <tr>
     <td><img src="https://github.com/ajaykuma/MyOtherData/blob/main/running_businessman_emphasized_transparent.gif" alt="Work in Progress" width="90"/></td>
-    <td><strong>🚧 Repositories are constantly being reviewed & improved. Stay tuned for updates!</strong></td>
+    <td><strong>🚧 Repositories are continuously evolving with architecture patterns, reference implementations & enterprise-ready solutions.</strong></td>
   </tr>
 </table>
 
-#### 🧰 Tech Toolbox
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/IBM%20MQ-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/WebSphere-1C1C1C?style=for-the-badge&logo=ibm&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Apache%20NiFi-003A70?style=for-the-badge&logo=apache&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Databricks-E42C64?style=for-the-badge&logo=databricks&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="25"/>
-</div>
-
-#### 📈 Monitoring & Visualization
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Superset-3A3A3A?style=for-the-badge&logo=apache&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Spotfire-0096D6?style=for-the-badge&logo=tibco&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Ganglia-1B75BC?style=for-the-badge&logo=data&logoColor=white" height="25"/>
-</div>
-
-#### 📫 Let's Connect
-
-<div align="left">
-  <a href="mailto:ajaykuma24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajay-k-singhal-95681027/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
-  </a>
-  <a href="https://github.com/ajaykuma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20" />
-  </a>
-</div>
-
 ---
-#### 🚀 Technical Expertise
 
-##### 💾 Databases & Data Warehousing
-- **Structured**: DB2, MySQL, MSSQL
-- **NoSQL**: MongoDB, Cassandra, Redis, Neo4j, Aerospike, DynamoDB
-- **Warehousing**: Redshift, Druid, Traditional DWHs
+## 🧰 Tech Toolbox
 
-##### 📊 Big Data Analytics & Integration
-- Apache Hadoop · Spark · Hive · Tez
-- Apache Kafka · Flink
-- Elasticsearch & its stack · Opensearch · Solr · Splunk
-- Platforms: CDP, HDP, AWS EMR, GCP Dataproc, Databricks
-- IBM MQ · Cognos · Websphere Application Server
-- Apache Nifi · Talend
+<div align="left">
 
-##### ☁️ Cloud Platforms & Services
-- **AWS**: S3, EMR, Lambda, Redshift, DynamoDB, EC2, Kinesis, SNS, SQS, QuickSight, Athena etc.
-- **GCP**: BigQuery, Dataproc, Pub/Sub, Vertex AI, Storage etc.
-- **Azure**: Synapse, Data Lake, Azure Functions etc.
+<!-- Core Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 
-##### 🧠 AI / ML / GenAI
-- ML Pipelines with Python & Cloud ML/API services  
-- Gen AI with OpenAI, HuggingFace, Gemini LLMs.
+<br><br>
 
-##### 🛠️ Tools, Languages & Frameworks
-- Python, Shell, SQL , Java, Scala
-- Git, Docker, Terraform, Airflow, Kubernetes, OpenShift
+<!-- AI / LLM Ecosystem -->
+<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/AutoGen-8A2BE2?style=for-the-badge" height="25"/>
+
+<br><br>
+
+<!-- Big Data & Streaming -->
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Databricks-E42C64?style=for-the-badge&logo=databricks&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="25"/>
+
+<br><br>
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="25"/>
+
+<br><br>
+
+<!-- Containers & Infra -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="25"/>
+
+<br><br>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="25"/>
+
+</div>
+---
+
+## 🚀 Technical Expertise
+
+### 💾 Databases & Data Platforms
+- Structured & NoSQL systems across enterprise & distributed environments  
+- Lakehouse & streaming architectures for high-volume, low-latency processing  
+- Data quality, lineage & governance frameworks
+
+### 📊 Big Data, Streaming & Integration
+- Spark · Hadoop · Kafka · Flink  
+- Elasticsearch / OpenSearch ecosystems  
+- Hybrid batch & real-time architectures  
+- Event-driven integration patterns
+
+### ☁️ Cloud & Platform Engineering
+- Multi-region cloud-native architectures & APIs (AWS · GCP · Azure)  
+- Containers, Kubernetes, serverless & hybrid infrastructure
+
+### 🧠 AI / ML / Generative AI
+- LLM-based enterprise applications and RAG pipelines using multiple providers and frameworks, including **OpenAI GPT, Google Gemini, Hugging Face, LangChain, LangGraph, AutoGen, CrewAI**  
+- Deployment and orchestration on cloud platforms such as **Google Cloud (Vertex AI), Azure OpenAI, and AWS**  
+- Vector stores for semantic and multimodal search: **FAISS, Chroma, Elasticsearch / OpenSearch**  
+- Evaluation frameworks, benchmarking, and guardrails for production-ready systems  
+- Agentic systems and workflow automation for real-world business solutions
+
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
+
+#### 💳 Support via PayPal
+
+If you'd like to support my work directly via PayPal:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/ajays1711?country.x=IN&locale.x=en_GB)
 
 #### 💳 Support via PayPal
 
