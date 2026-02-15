@@ -37,9 +37,9 @@ Available formats:
 </table>
 
 ## <h3> 🧰 Tech Toolbox </h3>
-
 <div align="left">
 <!-- AI / LLM Ecosystem -->
+<strong>AI / LLM Ecosystem</strong><br>
 <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="25"/>
