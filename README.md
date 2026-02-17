@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=ajaykuma&color=fb4362)
->>>>>>> 7b452972be392273bade256d13f9db793d69cf60
 
 <div style="line-height: 1.2; margin: 0; padding: 0;">
   <h3>Architect | Engineer | Consultant — Data, Cloud & AI / Generative AI Platforms<br></h3>
@@ -9,7 +8,6 @@
   I help organizations move from concept → architecture → production → scale, ensuring secure, reliable, and cost-effective platforms.
 </div>
 
-<<<<<<< HEAD
 Senior technologist with **22+ years in enterprise technology**,  
 **10+ years in AI/ML**, and **4+ years in Generative AI**.
 
@@ -18,28 +16,20 @@ My expertise spans **Big Data, NoSQL & structured databases, cloud-native platfo
 
 I help organizations move from **concept → architecture → production → scale**, ensuring secure, reliable, and cost-effective platforms.
 
----
-
 ## 💼 Consulting, Architecture & Technical Enablement
 
 I provide **independent consulting and hands-on technical leadership**, supporting enterprises, startups, and engineering teams in:
-
-=======
 ## <h3> 💼 Consulting, Architecture & Technical Enablement</h3>
 
 I provide **independent consulting and hands-on technical leadership**, supporting enterprises, startups, and engineering teams in:
->>>>>>> 7b452972be392273bade256d13f9db793d69cf60
 - Design and deliver enterprise-grade Data & AI platforms, addressing real-world business challenges  
 - Modernize legacy systems and scale cloud-native, hybrid, or multi-region architectures  
 - Implement LLM / RAG pipelines and generative AI solutions for production environments  
 - Optimize distributed data & streaming platforms for performance, resilience, and cost efficiency  
 - Provide architecture guidance, code reviews, and technical enablement for engineering teams 
 
-<<<<<<< HEAD
 ### 📌 Enterprise Engagement Highlights
-=======
 ### <h3> 📌 Enterprise Engagement Highlights</h3>
->>>>>>> 7b452972be392273bade256d13f9db793d69cf60
 - Enabled 250+ enterprise teams to adopt modern Data, Cloud, and AI/ML platforms through hands-on workshops  
 - Guided engineers in solving real-world problems and implementing production-ready solutions  
 - Maintained **95–100% satisfaction**, demonstrating consistent impact 
@@ -50,7 +40,6 @@ Available formats:
 - Hands-on deep dives & multi-week enablement programs  
 - Advisory or implementation retainers 
 
-<<<<<<< HEAD
 📩 Contact: ajaykuma24@gmail.com  
 🔗 Booking link coming soon
 
@@ -209,8 +198,6 @@ Available formats:
 - Agentic systems and workflow automation for real-world business solutions
 
 ---
-=======
->>>>>>> 7b452972be392273bade256d13f9db793d69cf60
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
