@@ -79,7 +79,8 @@ Available formats:
 - Agentic systems and workflow automation for real-world business solutions
 
 ### <h3> 📊 Big Data, Streaming & Integration </h3>
-- Spark · Hadoop · Kafka · Flink  
+- Spark, Hadoop, Kafka, Flink
+- Nifi, Messaging Systems, Informatica
 - Elasticsearch / OpenSearch ecosystems  
 - Hybrid batch & real-time architectures  
 - Event-driven integration patterns
