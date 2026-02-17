@@ -93,23 +93,6 @@ Available formats:
 - Lakehouse & streaming architectures for high-volume, low-latency processing  
 - Data quality, lineage & governance frameworks
 
-### 📊 Big Data, Streaming & Integration
-- Spark · Hadoop · Kafka · Flink  
-- Elasticsearch / OpenSearch ecosystems  
-- Hybrid batch & real-time architectures  
-- Event-driven integration patterns
-
-### ☁️ Cloud & Platform Engineering
-- Multi-region cloud-native architectures & APIs (AWS · GCP · Azure)  
-- Containers, Kubernetes, serverless & hybrid infrastructure
-
-### 🧠 AI / ML / Generative AI
-- LLM-based enterprise applications and RAG pipelines using multiple providers and frameworks, including **OpenAI GPT, Google Gemini, Hugging Face, LangChain, LangGraph, AutoGen, CrewAI**  
-- Deployment and orchestration on cloud platforms such as **Google Cloud (Vertex AI), Azure OpenAI, and AWS**  
-- Vector stores for semantic and multimodal search: **FAISS, Chroma, Elasticsearch / OpenSearch**  
-- Evaluation frameworks, benchmarking, and guardrails for production-ready systems  
-- Agentic systems and workflow automation for real-world business solutions
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuma&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykuma&layout=compact&theme=dracula&hide_border=false" height="150" />
